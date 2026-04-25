@@ -1,0 +1,1 @@
+'d:\emotions_dataset'
