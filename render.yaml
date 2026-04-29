@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: emotion-api
+    env: python
+    plan: free
+    startCommand: gunicorn app:app
